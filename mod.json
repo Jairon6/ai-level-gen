@@ -1,0 +1,18 @@
+{
+    "geode": "4.0.0",
+    "gd": { "android": "2.2074" },
+    "id": "developer.ai-level-generator",
+    "name": "AI Level Generator",
+    "version": "v2.0.0",
+    "developer": "Developer",
+    "description": "Generates ultra-hard extreme demon levels with biome decoration, multiple game modes, and progressive difficulty.",
+    "tags": ["editor","gameplay","utility"],
+    "settings": {
+        "last-seed": {
+            "name": "Last used seed",
+            "description": "Seed used in the last run.",
+            "type": "int",
+            "default": 1337
+        }
+    }
+}

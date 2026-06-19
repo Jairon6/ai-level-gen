@@ -1,0 +1,14 @@
+# Target labels
+ bindings-populate
+# Source files and their labels
+/data/data/com.termux/files/home/geode-level-gen/build/_deps/bindings-subbuild/CMakeFiles/bindings-populate
+/data/data/com.termux/files/home/geode-level-gen/build/_deps/bindings-subbuild/CMakeFiles/bindings-populate.rule
+/data/data/com.termux/files/home/geode-level-gen/build/_deps/bindings-subbuild/CMakeFiles/bindings-populate-complete.rule
+/data/data/com.termux/files/home/geode-level-gen/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-build.rule
+/data/data/com.termux/files/home/geode-level-gen/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-configure.rule
+/data/data/com.termux/files/home/geode-level-gen/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-download.rule
+/data/data/com.termux/files/home/geode-level-gen/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-install.rule
+/data/data/com.termux/files/home/geode-level-gen/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-mkdir.rule
+/data/data/com.termux/files/home/geode-level-gen/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-patch.rule
+/data/data/com.termux/files/home/geode-level-gen/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-test.rule
+/data/data/com.termux/files/home/geode-level-gen/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-update.rule

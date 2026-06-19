@@ -1,0 +1,21 @@
+# ninja log v7
+0	72	1781897832316898777	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-mkdir	9fe7ca7120d96ef4
+0	72	1781897832316898777	/data/data/com.termux/files/home/geode-level-gen/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-mkdir	9fe7ca7120d96ef4
+72	29827	1781897862072898779	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-download	d622cc67b6aa7144
+72	29827	1781897862072898779	/data/data/com.termux/files/home/geode-level-gen/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-download	d622cc67b6aa7144
+29827	31320	1781897862076898779	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-update	2532230b9399a1a1
+29827	31320	1781897862076898779	/data/data/com.termux/files/home/geode-level-gen/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-update	2532230b9399a1a1
+31320	31393	1781897863636898779	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-patch	183bb0e38fba6387
+31320	31393	1781897863636898779	/data/data/com.termux/files/home/geode-level-gen/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-patch	183bb0e38fba6387
+31394	31474	1781897863716898779	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-configure	334c393cf14efb89
+31394	31474	1781897863716898779	/data/data/com.termux/files/home/geode-level-gen/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-configure	334c393cf14efb89
+31475	31552	1781897863796898779	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-build	1f6e9915677bcb07
+31475	31552	1781897863796898779	/data/data/com.termux/files/home/geode-level-gen/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-build	1f6e9915677bcb07
+31553	31637	1781897863880898779	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-install	218e9233784654ea
+31553	31637	1781897863880898779	/data/data/com.termux/files/home/geode-level-gen/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-install	218e9233784654ea
+31638	31702	1781897863948898779	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-test	af332bddfa8ee4a4
+31638	31702	1781897863948898779	/data/data/com.termux/files/home/geode-level-gen/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-test	af332bddfa8ee4a4
+31703	31813	1781897864056898779	CMakeFiles/bindings-populate-complete	9239b40ad6877c8b
+31703	31813	1781897864056898779	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-done	9239b40ad6877c8b
+31703	31813	1781897864056898779	/data/data/com.termux/files/home/geode-level-gen/build/_deps/bindings-subbuild/CMakeFiles/bindings-populate-complete	9239b40ad6877c8b
+31703	31813	1781897864056898779	/data/data/com.termux/files/home/geode-level-gen/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-done	9239b40ad6877c8b

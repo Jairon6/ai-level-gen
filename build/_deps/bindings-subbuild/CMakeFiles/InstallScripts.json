@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/data/data/com.termux/files/home/geode-level-gen/build/_deps/bindings-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
