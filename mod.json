@@ -1,5 +1,5 @@
 {
-    "geode": "4.0.0",
+    "geode": ">=4.0.0",
     "gd": { "android": "2.2074" },
     "id": "developer.ai-level-generator",
     "name": "AI Level Generator",
