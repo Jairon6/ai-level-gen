@@ -378,7 +378,7 @@ void MainPopup::onTab(CCObject* sender) {
 }
 
 void MainPopup::onGetKey(CCObject*) {
-    geode::utils::web::openLinkInBrowser("https://console.groq.com/keys");
+    CCApplication::sharedApplication()->openURL("https://console.groq.com/keys");
 }
 
 void MainPopup::onDifficulty(CCObject* sender) {
